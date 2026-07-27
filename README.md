@@ -70,18 +70,6 @@ Here are the technologies I work with daily:
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[your-username]&theme=radical)
-
-</div>
-
----
-
 ## 🏆 Featured Projects (Real‑World Production)
 
 Here are the key enterprise projects I have built and architected:
@@ -92,15 +80,14 @@ Here are the key enterprise projects I have built and architected:
 
 ### 💬 [Stitchh App] (Mobil80 – Mobile‑first Collaboration Tool)
 > Architected a scalable **serverless backend** on AWS Lambda, SQS, and DynamoDB to power high‑concurrency team messaging. Implemented efficient error‑handling & retry logic to significantly reduce downtime.
-> - 🔗 *Repo Link*: `[Your-repo-link-if-public]`
+> - 🔗 *Website*: `https://stichh.com`
 
 ### 🏛️ [Monument Universe App] (Mobil80 – Virtual Heritage Tour)
 > Designed a serverless backend on **AWS Lambda and DynamoDB** with **AWS AppSync** integration to enable real‑time, low‑latency data sync between the frontend and backend for a seamless tour experience.
-> - 🔗 *Repo Link*: `[Your-repo-link-if-public]`
+> - 🔗 *Website Url*: `https://www.monumentuniverse.com/`
 
 ### 📊 [Disha – Business Suite for Sony] (Mobil80 – Zoho‑Style Productivity Suite)
 > Built RESTful backend services for attendance management and asset dashboard modules on a **serverless AWS stack** for the client Sony. Strengthened platform stability with robust error‑handling and retry mechanisms.
-> - 🔗 *Repo Link*: `[Your-repo-link-if-public]`
 
 ---
 
@@ -125,9 +112,8 @@ Here are the key enterprise projects I have built and architected:
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="[Your-Portfolio-Website]"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-  <a href="[Your-LinkedIn-URL]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:[your-email]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sathish-kumar-ds"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sathishkumargjc007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
