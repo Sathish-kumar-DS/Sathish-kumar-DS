@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Sathish%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20AWS%20Serverless%20Architect%20%7C%20Agentic%20AI%20Enthusiast&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Sathish%20Kumar%D%S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20AWS%20Serverless%20Architect%20%7C%20Agentic%20AI%20Enthusiast&descAlignY=55&descSize=18)
 
 <div align="center">
 
@@ -24,13 +24,14 @@ I'm a **Backend Developer with 2.9+ years of experience** building and scaling c
 ## 🛠️ Tech Stack & Tools
 
 ### 🚀 Languages & Frameworks
+
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Javascript](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=javascript&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 ### ☁️ Cloud & Serverless (AWS)
+
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Amazon DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 ![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -40,17 +41,20 @@ I'm a **Backend Developer with 2.9+ years of experience** building and scaling c
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### 🤖 AI / Agentic Frameworks
+
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C5C?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C5C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![FastMCP](https://img.shields.io/badge/FastMCP-005571?style=for-the-badge)
 
 ### 🛢️ Databases & Security
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Azure Entra ID](https://img.shields.io/badge/Azure_Entra_ID-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### 🛠️ Tools & Practices
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -64,18 +68,25 @@ I'm a **Backend Developer with 2.9+ years of experience** building and scaling c
 Here are the key enterprise projects I have built and architected:
 
 ### 🧠 Enterprise Multi-Agent Deployment Engine (Sky Secure Technologies)
+
 > Architected a stateless AI deployment engine using **Python, LangGraph, and FastAPI** to automate Azure Entra ID security policies. Leveraged **FastMCP** to decouple LLM reasoning from tool execution, enabling secure multi-tenant deployments with live **WebSocket** streaming updates.
-> - 🔒 *Private/internal project — repo not public*
+>
+> - 🔒 _Private/internal project — repo not public_
 
 ### 💬 Stitchh App (Mobil80 – Mobile-first Collaboration Tool)
+
 > Architected a scalable **serverless backend** on AWS Lambda, SQS, and DynamoDB to power high-concurrency team messaging. Implemented efficient error-handling & retry logic to significantly reduce downtime.
-> - 🔗 *Website*: [stichh.com](https://stichh.com)
+>
+> - 🔗 _Website_: [stichh.com](https://stichh.com)
 
 ### 🏛️ Monument Universe App (Mobil80 – Virtual Heritage Tour)
+
 > Designed a serverless backend on **AWS Lambda and DynamoDB** with **AWS AppSync** integration to enable real-time, low-latency data sync between the frontend and backend for a seamless tour experience.
-> - 🔗 *Website*: [monumentuniverse.com](https://www.monumentuniverse.com/)
+>
+> - 🔗 _Website_: [monumentuniverse.com](https://www.monumentuniverse.com/)
 
 ### 📊 Disha – Business Suite for Sony (Mobil80 – Zoho-Style Productivity Suite)
+
 > Built RESTful backend services for attendance management and asset dashboard modules on a **serverless AWS stack** for the client Sony. Strengthened platform stability with robust error-handling and retry mechanisms.
 
 ---
@@ -83,10 +94,10 @@ Here are the key enterprise projects I have built and architected:
 ## 💼 Professional Experience (Timeline)
 
 - **Software Developer** @ **Sky Secure Technologies** (Dec 2025 – Present)
-  *Building secure Node.js/Express backends with JWT/RBAC, caching, and logging. Architecting AI agent systems for Azure security automation.*
+  _Building secure Node.js/Express backends with JWT/RBAC, caching, and logging. Architecting AI agent systems for Azure security automation._
 
 - **Software Developer** @ **Mobil80 Software Solutions** (Oct 2023 – Dec 2025)
-  *Developed scalable web apps using Node.js and AWS serverless components (Lambda, DynamoDB, Cognito). Improved response times by 25% and built real-time monitoring with CloudWatch.*
+  _Developed scalable web apps using Node.js and AWS serverless components (Lambda, DynamoDB, Cognito). Improved response times by 25% and built real-time monitoring with CloudWatch._
 
 ---
 
@@ -105,7 +116,7 @@ Here are the key enterprise projects I have built and architected:
 
 ---
 
-### ✨ *"Great code is not just about solving problems—it's about building systems that scale securely."*
+### ✨ _"Great code is not just about solving problems—it's about building systems that scale securely."_
 
 ⭐️ From **Sathish Kumar**
 
