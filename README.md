@@ -25,6 +25,7 @@ I'm a **Backend Developer with 2.9+ years of experience** building and scaling c
 
 ### 🚀 Languages & Frameworks
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Javascript](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=javascript&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -55,23 +56,6 @@ I'm a **Backend Developer with 2.9+ years of experience** building and scaling c
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sathish-kumar-DS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathish-kumar-DS&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Sathish-kumar-DS&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sathish-kumar-DS&theme=tokyo-night&hide_border=true" width="90%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sathish-kumar-DS&theme=tokyonight&no-frame=true&row=1&column=6" width="90%" />
-
-</div>
 
 ---
 
